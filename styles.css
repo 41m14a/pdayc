@@ -76,3 +76,14 @@ body {
 .card:hover .back {
     transform: perspective(600px) rotateY(360deg);
 }
+.ADN {
+    text-align: center;
+    display: flex;
+    box-sizing: border-box;
+    color: rgb(255, 255, 255);
+    width: 100%;
+    background: rgba(7, 61, 110, 0.451);
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+}
